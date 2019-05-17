@@ -114,7 +114,7 @@ atomic design
 
 ![amo](https://static.jovi.cc/Atomic-design-no-shell_zerev7.webp)
 
-![atomic](https://static.jovi.cc/1_z-u-9PU4Zv-zH5FedmOseQ.png)
+![atomic](https://static.jovi.cc/uisdc-yz-20181113-21.jpg)
 
 classic BEM + atomic prefix
 
@@ -145,16 +145,3 @@ camelCase BEM + atomic prefix
 |hack |`_` | Signify that this class is the worst of the worst—a hack! Sometimes, although incredibly rarely, we need to add a class in our markup in order to force something to work. If we do this, we need to let others know that this class is less than ideal, and hopefully temporary (i.e. do not bind onto this).|
 |javascript |`js-`| Signify that this piece of the DOM has some behaviour acting upon it, and that JavaScript binds onto it to provide that behaviour. If you’re not a developer working with JavaScript, leave these well alone.|
 |QA |`qa-`| Signify that a QA or Test Engineering team is running an automated UI test which needs to find or bind onto these parts of the DOM. Like the JavaScript namespace, this basically just reserves hooks in the DOM for non-CSS purposes.|
-
-### 即将使用的命名空间
-
-**Prefix+简写版BEM**
-看起来应该是这种样子：
-
-`前缀-块-元素_修饰符`
-
-其中单个部分的内容使用单驼峰方式命名。 如：
-
-```css
-n-subMenu-leadIcon_active
-```
