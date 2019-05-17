@@ -8,14 +8,12 @@
 
 ## 参与项目
 
-项目库地址： <https://gitee.com/uwings/guidelines> / <https://coding.net/u/uwings/p/guidelines>
+项目库地址： [guidelines@码云](https://gitee.com/uwings/guidelines) / [guidelines@coding](https://coding.net/u/uwings/p/guidelines)
 
 反馈问题： <https://gitee.com/uwings/guidelines/issues>
 
 ## 项目网址
 
-<https://guidelines.cc>
+[guideLines.cc](https://guidelines.cc)
 
-<https://uwings.gitee.io/guidelines/>
-
-<http://uwings.coding.me/guidelines/_book/>
+[gitee pages](https://uwings.gitee.io/guidelines/)
