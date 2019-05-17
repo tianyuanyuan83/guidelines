@@ -14,11 +14,11 @@ google Material design icons github和 sketch libraries
 
 ## fontAwesome pro 5.7.2
 
-font Awesome pro  付费版 5.7.2 资源
+font Awesome pro  付费版 5.8.1 资源
 
-[fontawesome-pro-5.7.2-desktop.zip](https://static.jovi.cc/fontawesome-pro-5.7.2-desktop.zip)
+[fontawesome-pro-5.8.1-desktop.zip](https://static.jovi.cc/fontawesome-pro-5.8.1-desktop.zip)
 
-[fontawesome-pro-5.7.2-web.zip](https://static.jovi.cc/fontawesome-pro-5.7.2-web.zip)
+[fontawesome-pro-5.8.1-web.zip](https://static.jovi.cc/fontawesome-pro-5.8.1-web.zip)
 
 <i class="fa fa-file-text"><i/> [font awsome pro cheatsheet](https://fontawesome.com/cheatsheet/pro)
 
