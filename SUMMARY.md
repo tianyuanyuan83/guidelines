@@ -9,6 +9,7 @@
   * [Lean ux](content/flow/leanUx.md)
   * [Agile](content/flow/Agile.md)
   * [Growth Hack](content/flow/growthHack.md)
+* [内部评审](content/flow/review.md)
 
 ## 规范
 
