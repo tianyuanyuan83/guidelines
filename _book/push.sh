@@ -8,3 +8,6 @@ echo "push to guidelines complete."
 git push gitee &&
 # gitee remote url name
 echo "push to gitee complete."
+git push coding &&
+# coding remote url name
+echo "push to coding complete."

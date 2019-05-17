@@ -51,7 +51,6 @@
 * [无版权图库](content/other/freestock.md)
 * [常用软件](content/other/software.md)
 * [Shadowsocks Pac Rule](content/other/sspac.md)
-* [码云镜像](https://uwings.gitee.io/guidelines/)
 
 ## 内网 (内部使用)
 

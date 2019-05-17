@@ -8,7 +8,7 @@
 
 ## 参与项目
 
-项目库地址： <https://gitee.com/uwings/guidelines>
+项目库地址： <https://gitee.com/uwings/guidelines> / <https://coding.net/u/uwings/p/guidelines>
 
 反馈问题： <https://gitee.com/uwings/guidelines/issues>
 
@@ -17,3 +17,5 @@
 <https://guidelines.cc>
 
 <https://uwings.gitee.io/guidelines/>
+
+<http://uwings.coding.me/guidelines/_book/>
