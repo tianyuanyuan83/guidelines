@@ -15,4 +15,5 @@
 ## 项目网址
 
 <https://guidelines.cc>
+
 <https://uwings.gitee.io/guidelines/>
