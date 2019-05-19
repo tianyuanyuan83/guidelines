@@ -20,9 +20,9 @@ font Awesome pro  付费版 5.8.1 资源
 
 [fontawesome-pro-5.8.1-web.zip](https://static.jovi.cc/fontawesome-pro-5.8.1-web.zip)
 
-<i class="fa fa-file-text"><i/> [font awsome pro cheatsheet](https://fontawesome.com/cheatsheet/pro)
+<i class="fal fa-file-text"><i/> [font awsome pro cheatsheet](https://fontawesome.com/cheatsheet/pro)
 
-<i class="fa fa-file-text"><i/>[ font awsome 4.7.0 for gitbook(4.6.3)](https://fontawesome.com/v4.7.0/cheatsheet/)
+<i class="fal fa-file-text"><i/>[ font awsome 4.7.0 for gitbook(4.6.3)](https://fontawesome.com/v4.7.0/cheatsheet/)
 
 ## Microsoft MDL2
 

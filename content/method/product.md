@@ -1,4 +1,4 @@
-# 产品常用方法论
+# 产品常用方法论 {docsify-ignore-all}
 
 ## KANO模型：
 

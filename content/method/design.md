@@ -1,4 +1,4 @@
-# 设计法则
+# 设计法则 {docsify-ignore-all}
 
 ## 尼尔森F型视觉模型
 

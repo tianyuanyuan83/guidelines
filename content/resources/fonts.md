@@ -5,15 +5,15 @@
 ## Noto Fonts
 
 一款含全球语言的字体。
-<a href="https://www.google.com/get/noto/" target="_blank" class="fa fa-download"> 点击下载</a>
+<a href="https://www.google.com/get/noto/" target="_blank" class="fal fa-download"> 点击下载</a>
 
 ## 阿里普惠体
 
-<a href="https://static.jovi.cc/puhuifonts.zip" target="_blank" class="fa fa-download"> 点击下载</a>
+<a href="https://static.jovi.cc/puhuifonts.zip" target="_blank" class="fal fa-download"> 点击下载</a>
 
 ## DIN
 
-<a href="https://static.jovi.cc/DIN.zip" target="_blank" class="fa fa-download"> 点击下载</a>
+<a href="https://static.jovi.cc/DIN.zip" target="_blank" class="fal fa-download"> 点击下载</a>
 
 包含字体
 
@@ -68,7 +68,7 @@
 
 ## Roboto
 
-<a href="https://static.jovi.cc/Roboto.zip" target="_blank" class="fa fa-download"> 点击下载</a>
+<a href="https://static.jovi.cc/Roboto.zip" target="_blank" class="fal fa-download"> 点击下载</a>
 
 包含字体：
 
@@ -88,7 +88,7 @@
 
 ## Helvetica Neue LT Pro
 
-<a href="https://static.jovi.cc/HelveticaNeueLTPro.zip" target="_blank" class="fa fa-download"> 点击下载</a>
+<a href="https://static.jovi.cc/HelveticaNeueLTPro.zip" target="_blank" class="fal fa-download"> 点击下载</a>
 
 包含字体
 
@@ -146,7 +146,7 @@
 
 ## Microsoft Segoe
 
-<a href="https://static.jovi.cc/Segoe.zip" target="_blank" class="fa fa-download"> 点击下载</a>
+<a href="https://static.jovi.cc/Segoe.zip" target="_blank" class="fal fa-download"> 点击下载</a>
 
 包含字体：
 
@@ -191,7 +191,7 @@
 
 ## 华康黑体
 
-<a href="https://static.jovi.cc/hkht.zip" target="_blank" class="fa fa-download"> 点击下载</a>
+<a href="https://static.jovi.cc/hkht.zip" target="_blank" class="fal fa-download"> 点击下载</a>
 
 包含字体
 
@@ -204,7 +204,7 @@
 
 ## 微软雅黑
 
-<a href="https://static.jovi.cc/msyh.zip" target="_blank" class="fa fa-download"> 点击下载</a>
+<a href="https://static.jovi.cc/msyh.zip" target="_blank" class="fal fa-download"> 点击下载</a>
 
 包含字体
 
@@ -214,7 +214,7 @@
 
 ## 思源黑体
 
-<a href="https://static.jovi.cc/sourcehansans.zip" target="_blank" class="fa fa-download"> 点击下载</a>
+<a href="https://static.jovi.cc/sourcehansans.zip" target="_blank" class="fal fa-download"> 点击下载</a>
 
 包含字体
 
@@ -226,7 +226,7 @@
 
 ## A-OTF
 
-<a href="https://static.jovi.cc/A-OTF.zip" target="_blank" class="fa fa-download"> 点击下载</a>
+<a href="https://static.jovi.cc/A-OTF.zip" target="_blank" class="fal fa-download"> 点击下载</a>
 
 包含字体
 
@@ -258,7 +258,7 @@
 
 ## 方正兰亭黑
 
-<a href="https://static.jovi.cc/FZlanting.zip" target="_blank" class="fa fa-download"> 点击下载</a>
+<a href="https://static.jovi.cc/FZlanting.zip" target="_blank" class="fal fa-download"> 点击下载</a>
 
 包含字体
 

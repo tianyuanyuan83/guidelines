@@ -1,4 +1,8 @@
-# 其他方法论
+# 其他方法论 {docsify-ignore-all}
+
+## hacker laws
+
+[hacker laws](https://github.com/nusr/hacker-laws-zh)
 
 ## 心流理论：人们全身心投入某件事中的一种心理状态、沉浸在忘我的境界中
 

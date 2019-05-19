@@ -1,4 +1,4 @@
-# Tog 的交互设计原则
+# Tog 的交互设计原则 {docsify-ignore-all}
 
 ## 前言：
 

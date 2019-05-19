@@ -8,12 +8,18 @@
 
 ## 参与项目
 
-项目库地址： [guidelines@码云](https://gitee.com/uwings/guidelines) / [guidelines@coding](https://coding.net/u/uwings/p/guidelines)
+项目库地址：
+
+* [guidelines@码云](https://gitee.com/uwings/guidelines)
+* [backup@gitlab](http://git.baotian.me:8000/jovi/guidelines)
+* ~~[guidelines@coding](https://coding.net/u/uwings/p/guidelines)~~
 
 反馈问题： <https://gitee.com/uwings/guidelines/issues>
 
 ## 项目网址
 
-[guideLines.cc](https://guidelines.cc)
+<https://guidelines.cc>
+> 🇭🇰服务器，有时候会比较慢。
 
-[gitee pages](https://uwings.gitee.io/guidelines/)
+<https://uwings.gitee.io/guidelines/>
+> 码云托管，比较快，但是更新可能滞后。
