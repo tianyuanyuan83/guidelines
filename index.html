@@ -20,14 +20,17 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: '',
+      // name: '',
+      // repo: '',
       subMaxLevel: 2,
       coverpage: true,
       loadSidebar: true,
+      alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+      },
       // 加载 summary.md
       // loadSidebar: 'SUMMARY.md', 
-      notFoundPage: 'my404.md',
+      // notFoundPage: 'my404.md',
       search: 'auto', // 默认值
     // search : [
     //   '/',            // => /README.md
