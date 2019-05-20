@@ -8,8 +8,8 @@
 
 产品开发也受到黑客成长的观念的深刻影响。而不是长时间的开发周期，随后用户测试。增长黑客利用线框和草图开始用户测试;验证每个阶段的想法。产品开发角色中的成长黑客将开始在咖啡店进行用户测试，而不是企业可用性实验室。
 
-![Growth hack](https://static.jovi.cc/wat-is-growth-hacking-venn-diagram.png)
+![Growth hack](https://guidelines.cc/assets/img/wat-is-growth-hacking-venn-diagram.png)
 
 ## 海盗模型
 
-![AARRR](https://static.jovi.cc/0_DPrPZsMZxod0ZAHo.jpg)
+![AARRR](https://guidelines.cc/assets/img/0_DPrPZsMZxod0ZAHo.jpg)

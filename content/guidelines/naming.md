@@ -1,36 +1,17 @@
 # 命名空间
 
 > There are only two hard things in Computer Science: cache invalidation and naming things.
+>
 > – Phil Karlton
 
 ## 图层管理(sketch)
 
-<video src="https://static.jovi.cc/naming.mp4" width="600" controls="controls">
+<!-- <video src="https://static.jovi.cc/naming.mp4" width="600" controls="controls">
 Your browser does not support the video tag.
+![sketch art board naming](https://guidelines.cc/assets/img/1_WEtHw89crn2bKV2mDf7dTA-2x.png)
+</video> -->
 
-![sketch art board naming](https://static.jovi.cc/1_WEtHw89crn2bKV2mDf7dTA-2x.png)
-
-</video>
-
-### 项目文件管理
-
-![a designer's way of keeping files organized](https://static.jovi.cc/file-system-02.png)
-
-![a designer's way of keeping files organized2](https://static.jovi.cc/image-5_folder-algorithm-2.jpg)
-
-[File naming convertion](http://design.palkobotond.ro/naming-convention-1/)
-
-## 辅助插件
-
-- sortme
-- renameit
-- replace2
-
-详见 [sketch plugin](https://guidelines.cc/content/resources/sketchPlugins.html)
-
-## 常用命名空间
-
-### BEM
+## BEM
 
 使用 BEM 命名规范，理论上讲，每行 css 代码都只有一个选择器。
 
@@ -46,7 +27,7 @@ _   单下划线：单下划线用来描述一个块或者块的子元素的一�
 type-block__element_modifier
 ```
 
-#### 块（block）
+### 块（block）
 
 一个块是设计或布局的一部分，它有具体且唯一地意义 ，要么是语义上的要么是视觉上的。
 
@@ -66,7 +47,7 @@ type-block__element_modifier
 .list
 ```
 
-#### 元素（element）
+### 元素（element）
 
 块中的子元素是块的子元素，并且子元素的子元素在 `bem` 里也被认为是块的直接子元素。一个块中元素的类名必须用父级块的名称作为前缀。
 
@@ -81,7 +62,7 @@ type-block__element_modifier
 .list__item{}
 ```
 
-#### 修饰符（modifier）
+### 修饰符（modifier）
 
 一个“修饰符”可以理解为一个块的特定状态，标识着它持有一个特定的属性。
 
@@ -102,27 +83,38 @@ type-block__element_modifier
 .list__item_active{}
 ```
 
-![bem](https://static.jovi.cc/bem.jpg)
+![bem](https://guidelines.cc/assets/img/bem.jpg)
 
-示例
+标准BEM命名示例
 
-![bem示例](https://static.jovi.cc/982c830552af.png)
+![bem示例](https://guidelines.cc/assets/img/982c830552af.png)
 
-### ABEM
+## ABEM
 
-atomic design
+结合原子设计理论的BEM命名空间。
 
-![amo](https://static.jovi.cc/Atomic-design-no-shell_zerev7.webp)
+### atomic 理论框架
 
-![atomic](https://static.jovi.cc/uisdc-yz-20181113-21.jpg)
+![atomic](https://guidelines.cc/assets/img/uisdc-yz-20181113-21.jpg)
 
-classic BEM + atomic prefix
+### atomic design 的 [a,m,o]
 
-![classic BEM + atomic prefix](https://static.jovi.cc/classic-BEM-answer.svg)
+![amo](https://guidelines.cc/assets/img/Atomic-design-no-shell_zerev7.webp)
 
-camelCase BEM + atomic prefix
+### classic BEM + atomic prefix
 
-![camelCase BEM + atomic prefix](https://static.jovi.cc/camelCase-BEM-answer.svg)
+![classic BEM + atomic prefix](https://guidelines.cc/assets/img/classic-BEM-answer.svg)
+
+### camelCase BEM + atomic prefix
+
+![camelCase BEM + atomic prefix](https://guidelines.cc/assets/img/camelCase-BEM-answer.svg)
+
+atomic 设计理论的前缀+BEM
+推荐使用 
+
+```css
+[a/m/o]-blockName__elementName--modifierName
+```
 
 ## BEM 优化
 
@@ -133,7 +125,7 @@ camelCase BEM + atomic prefix
 |Helpers|`h-`|`h-show` `h-hide`|These utility classes have a single function, often using `!important` to boost their specificity. (Commonly used for positioning or visibility.)|
 |States|`is-` `has-`|`is-visible` `has-loaded`|	Indicate different states that a `c-` component can have. More detail on this concept can be found inside problem 6 below, but|
 
-更多推荐使用
+更多前缀使用策略:
 
 |type|prefix|Description|
 |:--|:--|:--|
@@ -145,3 +137,19 @@ camelCase BEM + atomic prefix
 |hack |`_` | Signify that this class is the worst of the worst—a hack! Sometimes, although incredibly rarely, we need to add a class in our markup in order to force something to work. If we do this, we need to let others know that this class is less than ideal, and hopefully temporary (i.e. do not bind onto this).|
 |javascript |`js-`| Signify that this piece of the DOM has some behaviour acting upon it, and that JavaScript binds onto it to provide that behaviour. If you’re not a developer working with JavaScript, leave these well alone.|
 |QA |`qa-`| Signify that a QA or Test Engineering team is running an automated UI test which needs to find or bind onto these parts of the DOM. Like the JavaScript namespace, this basically just reserves hooks in the DOM for non-CSS purposes.|
+
+## 项目文件管理
+
+![a designer's way of keeping files organized](https://guidelines.cc/assets/img/file-system-02.png)
+
+![a designer's way of keeping files organized2](https://guidelines.cc/assets/img/image-5_folder-algorithm-2.jpg)
+
+[File naming convertion](http://design.palkobotond.ro/naming-convention-1/)
+
+## 辅助插件
+
+- sortme
+- renameit
+- replace2
+
+详见 [sketch plugin](https://guidelines.cc/content/resources/sketchPlugins.html)

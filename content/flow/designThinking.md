@@ -28,6 +28,6 @@
 
 [wiki-Design thinking](https://zh.wikipedia.org/wiki/%E8%A8%AD%E8%A8%88%E6%80%9D%E8%80%83)
 
-![Design thinking by nngroup](https://static.jovi.cc/designthinking_illustration_final-01-01.png)
+![Design thinking by nngroup](https://guidelines.cc/assets/img/designthinking_illustration_final-01-01.png)
 
-![Design thinking by Interaction design](https://static.jovi.cc/a1a765fff58057f0516d219f133f0c21.jpeg)
+![Design thinking by Interaction design](https://guidelines.cc/assets/img/a1a765fff58057f0516d219f133f0c21.jpeg)

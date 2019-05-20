@@ -33,7 +33,7 @@ sketch 字体样式库，可在[sketch libraries](../resources/sketchLib.md) 菜
 | button L | 16 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |  |  |  |  |  |  | ✔️ |
 | button S | 14 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |  |  |  |  |  |  | ✔️ | -->
 
-![font style table](https://static.jovi.cc/pb-jx4ZAjh1fL.png)
+![font style table](https://guidelines.cc/assets/img/pb-jx4ZAjh1fL.png)
 
 ### 主题字体颜色表：
 

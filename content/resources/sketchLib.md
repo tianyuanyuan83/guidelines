@@ -3,7 +3,7 @@
 _基于RSS更新的Sketch库_
 简单UED库内容更新以此版本为准。
 点击对应链接添加该库到sketch library，弹出打开方式请选择允许sketch打开，添加后将会接受该库的后续更新推送，无缝更新。
-<img src="https://static.jovi.cc/2019-04-27_15-42-45.png" alt="弹出打开方式请选择允许sketch打开" style="width:50%;display:block;" />
+<img src="https://guidelines.cc/assets/img/2019-04-27_15-42-45.png" alt="弹出打开方式请选择允许sketch打开" style="width:50%;display:block;" />
 
 <span style="font-weight:700;color:red;">库文件基于 <i style="text-decoration:underline;">sketch 53.2</i> 版本，低于该版本软件可能无法成功添加为库文件。</span>
 
@@ -19,7 +19,7 @@ material色板，包含Material design的全部色板symbols。
 
 ## 图标库
 
-来自原官方Material icons项目，sketch源文件可以通过 sketch plugin —— Material Theme Editor \[[官网下载地址](https://material.io/tools/theme-editor/downloads/production/material.sketchplugin.zip) | [jovi.cc下载](http://static.jovi.cc/material.sketchplugin.zip)\]下载使用，github项目地址：[Material Design Icons](https://github.com/google/material-design-icons)。
+来自原官方Material icons项目，sketch源文件可以通过 sketch plugin —— Material Theme Editor \[[官网下载地址](https://material.io/tools/theme-editor/downloads/production/material.sketchplugin.zip) | [jovi.cc下载](http://guidelines.cc/assets/img/material.sketchplugin.zip)\]下载使用，github项目地址：[Material Design Icons](https://github.com/google/material-design-icons)。
 
 选择、查找图标可以参见[cheatsheet](https://material.io/tools/icons/?style=baseline)；图标设计规范参见[icon thmes](https://material.io/design/iconography/system-icons.html#) 和官网 iconography部分。
 
