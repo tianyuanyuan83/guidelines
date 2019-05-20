@@ -48,29 +48,29 @@
 
 ![Design thinking](https://static.jovi.cc/dtpart.png)
 
-[了解更多Design Thinking ](designThinking.md)
+[了解更多Design Thinking ](content/flow/designThinking.md)
 
 ##### lean ux
 
 ![lean ux](https://static.jovi.cc/leanuxpart.png)
 
-[了解更多Lean ux](leanUx.md)
+[了解更多Lean ux](content/flow/leanUx.md)
 
 ##### agile
 
 ![agile](https://static.jovi.cc/agilepart.png)
 
-[了解更多Agile](Agile.md)
+[了解更多Agile](content/flow/Agile.md)
 
 ##### ghpart
 
 ![ghpart](https://static.jovi.cc/ghpart.png)
 
-[了解更多Growth Hack](growthHack.md)
+[了解更多Growth Hack](content/flow/growthHack.md)
 
-#### 旧流程
+<!-- #### 旧流程
 
-![研发流程](https://static.jovi.cc/oldFlow.png)
+![研发流程](https://static.jovi.cc/oldFlow.png) -->
 
 <!-- [^1]: 设计思维是一种来自来自于斯坦福大学 d·school 的方法论，用于为寻求未来改进结果的问题或事件提供实用和富有创造性的解决方案，是一种基于解决方案的解决问题的设计方法。1991年的时候，David Kelley创立了IDEO（后来也是他创立了D.School)，现今全球最大的设计咨询机构之一。
 
