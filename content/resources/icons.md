@@ -16,9 +16,9 @@ google Material design icons github和 sketch libraries
 
 font Awesome pro  付费版 5.8.1 资源
 
-[fontawesome-pro-5.8.1-desktop.zip](https://guidelines.cc/assets/img/fontawesome-pro-5.8.1-desktop.zip)
+[fontawesome-pro-5.8.1-desktop.zip](https://static.jovi.cc/fontawesome-pro-5.8.1-desktop.zip)
 
-[fontawesome-pro-5.8.1-web.zip](https://guidelines.cc/assets/img/fontawesome-pro-5.8.1-web.zip)
+[fontawesome-pro-5.8.1-web.zip](https://static.jovi.cc/fontawesome-pro-5.8.1-web.zip)
 
 <i class="fal fa-file-alt"></i> [font awsome pro cheatsheet](https://fontawesome.com/cheatsheet/pro)
 

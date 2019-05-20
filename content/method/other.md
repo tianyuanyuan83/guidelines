@@ -14,7 +14,7 @@
 
 ## 马斯洛需求模型
 
-![马斯洛需求模型](https://guidelines.cc/assets/img/52629163.png)
+![马斯洛需求模型](https://guidelines.cc/assets/imgs52629163.png)
 
 ## 沉没成本
 
