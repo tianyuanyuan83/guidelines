@@ -15,19 +15,19 @@
 
 物体之间的相对距离会影响我们感知它是否以及如何组织在一起。互相靠近（相对于其它物体）的物体看起来属于一组，而那些距离较远的则自动划为组外。
 
-![接近性原理](https://guidelines.cc/assets/imgs/39232568.png ':size=500')
+![接近性原理](https://guidelines.cc/assets/imgs/39232568.png ':size=370')
 
 ## 相似性原理；
 
 如果其它因素相同，那么相似的物体看起来归属于一组。
 
-![相似性原理](https://guidelines.cc/assets/imgs/39295886.png ':size=500')
+![相似性原理](https://guidelines.cc/assets/imgs/39295886.png ':size=370')
 
 ## 连续性原理；
 
 视觉倾向于感知连续的形式而不是离散的碎片
 
-![连续性原理；](https://guidelines.cc/assets/imgs/39366446.png ':size=500')
+![连续性原理；](https://guidelines.cc/assets/imgs/39366446.png ':size=370')
 
 ## 封闭性原理；
 
