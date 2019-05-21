@@ -8,7 +8,7 @@
 
 <!-- <video src="https://static.jovi.cc/naming.mp4" width="600" controls="controls">
 Your browser does not support the video tag.
-![sketch art board naming](./assets/imgs/1_WEtHw89crn2bKV2mDf7dTA-2x.png)
+![sketch art board naming](https://guidelines.cc/1_WEtHw89crn2bKV2mDf7dTA-2x.png)
 </video> -->
 
 ## BEM
@@ -83,11 +83,11 @@ type-block__element_modifier
 .list__item_active{}
 ```
 
-![bem](./assets/imgs/bem.jpg)
+![bem](https://guidelines.cc/bem.jpg)
 
 标准BEM命名示例
 
-![bem示例](./assets/imgs/982c830552af.png)
+![bem示例](https://guidelines.cc/982c830552af.png)
 
 ## ABEM
 
@@ -95,19 +95,19 @@ type-block__element_modifier
 
 ### atomic 理论框架
 
-![atomic](./assets/imgs/uisdc-yz-20181113-21.jpg)
+![atomic](https://guidelines.cc/uisdc-yz-20181113-21.jpg)
 
 ### atomic design 的 [a,m,o]
 
-![amo](./assets/imgs/Atomic-design-no-shell_zerev7.webp)
+![amo](https://guidelines.cc/Atomic-design-no-shell_zerev7.webp)
 
 ### classic BEM + atomic prefix
 
-![classic BEM + atomic prefix](./assets/imgs/classic-BEM-answer.svg)
+![classic BEM + atomic prefix](https://guidelines.cc/classic-BEM-answer.svg)
 
 ### camelCase BEM + atomic prefix
 
-![camelCase BEM + atomic prefix](./assets/imgs/camelCase-BEM-answer.svg)
+![camelCase BEM + atomic prefix](https://guidelines.cc/camelCase-BEM-answer.svg)
 
 atomic 设计理论的前缀+BEM
 推荐使用 
@@ -140,9 +140,9 @@ atomic 设计理论的前缀+BEM
 
 ## 项目文件管理
 
-![a designer's way of keeping files organized](./assets/imgs/file-system-02.png)
+![a designer's way of keeping files organized](https://guidelines.cc/file-system-02.png)
 
-![a designer's way of keeping files organized2](./assets/imgs/image-5_folder-algorithm-2.jpg)
+![a designer's way of keeping files organized2](https://guidelines.cc/image-5_folder-algorithm-2.jpg)
 
 [File naming convertion](http://design.palkobotond.ro/naming-convention-1/)
 
