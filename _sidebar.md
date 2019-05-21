@@ -18,7 +18,8 @@
 
 * 资源
   * [Design systems](content/resources/designSystems.md)
-  * [Sketch library](content/resources/sketchLib.md)
+  <!-- * [Sketch library](content/resources/sketchLib.md) -->
+  * <a class="fal fa-gem" href="content/resources/sketchLib.md"> Sketch library</a>
   * [Sketch plugins](content/resources/sketchPlugins.md)
   * [Font Icon](content/resources/icons.md)
   * [Fonts](content/resources/fonts.md)
