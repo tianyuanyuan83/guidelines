@@ -7,17 +7,19 @@
 ## Noto Fonts
 
 一款含全球语言的字体。
-<a href="https://www.google.com/get/noto/" target="_blank" class="fal fa-download"> 点击下载</a>
+[<i class="fal fa-download"></i> 点击下载](https://www.google.com/get/noto/)
 
 ## 阿里普惠体
 
-<a href="https://static.jovi.cc/puhuifonts.zip" target="_blank" class="fal fa-download"> 点击下载</a>
+[<i class="fal fa-download"></i> 点击下载](https://static.jovi.cc/puhuifonts.zip)
 
 ## DIN
 
-<a href="https://static.jovi.cc/DIN.zip" target="_blank" class="fal fa-download"> 点击下载</a>
+[<i class="fal fa-download"></i> 点击下载](https://static.jovi.cc/DIN.zip)
 
-包含字体
+<details>
+
+<summary> 包含字体列表 </summary>
 
 - DIN-Black.otf
 - DIN-BlackAlternate.otf
@@ -68,11 +70,15 @@
 - DINPro-Medium.otf
 - DINPro-Regular.otf
 
+</details>
+
 ## Roboto
 
-<a href="https://static.jovi.cc/Roboto.zip" target="_blank" class="fal fa-download"> 点击下载</a>
+[<i class="fal fa-download"></i> 点击下载](https://static.jovi.cc/Roboto.zip)
 
-包含字体：
+<details>
+
+<summary> 包含字体列表 </summary>
 
 - Roboto-Light.ttf
 - Roboto-Medium.ttf
@@ -88,11 +94,15 @@
 - RobotoMono-Thin.ttf
 - RobotoMono-ThinItalic.ttf
 
+</details>
+
 ## Helvetica Neue LT Pro
 
-<a href="https://static.jovi.cc/HelveticaNeueLTPro.zip" target="_blank" class="fal fa-download"> 点击下载</a>
+[<i class="fal fa-download"></i> 点击下载](https://static.jovi.cc/HelveticaNeueLTPro.zip)
 
-包含字体
+<details>
+
+<summary> 包含字体列表 </summary>
 
 - HelveticaNeueLTPro-Bd.otf
 - HelveticaNeueLTPro-BdCn.otf
@@ -146,11 +156,15 @@
 - HelveticaNeueLTPro-XBlkCn.otf
 - HelveticaNeueLTPro-XBlkCnO.otf
 
+</details>
+
 ## Microsoft Segoe
 
-<a href="https://static.jovi.cc/Segoe.zip" target="_blank" class="fal fa-download"> 点击下载</a>
+[<i class="fal fa-download"></i> 点击下载](https://static.jovi.cc/Segoe.zip)
 
-包含字体：
+<details>
+
+<summary> 包含字体列表 </summary>
 
 - SegMDL2.ttf
 - Segoe Black Italic.ttf
@@ -191,11 +205,15 @@
 - segoeuisl.ttf
 - seguisb.ttf
 
+</details>
+
 ## 华康黑体
 
-<a href="https://static.jovi.cc/hkht.zip" target="_blank" class="fal fa-download"> 点击下载</a>
+[<i class="fal fa-download"></i> 点击下载](https://static.jovi.cc/hkht.zip)
 
-包含字体
+<details>
+
+<summary> 包含字体列表 </summary>
 
 - 华康黑体W12.TTF
 - 华康黑体W3.TTF
@@ -204,21 +222,29 @@
 - 华康黑体W7.TTF
 - 华康黑体W9.TTF
 
+</details>
+
 ## 微软雅黑
 
-<a href="https://static.jovi.cc/msyh.zip" target="_blank" class="fal fa-download"> 点击下载</a>
+[<i class="fal fa-download"></i> 点击下载](https://static.jovi.cc/msyh.zip)
 
-包含字体
+<details>
+
+<summary> 包含字体列表 </summary>
 
 - MSYH.TTC
 - MSYHL.TTC
 - MSYHBD.TTC
 
+</details>
+
 ## 思源黑体
 
-<a href="https://static.jovi.cc/sourcehansans.zip" target="_blank" class="fal fa-download"> 点击下载</a>
+[<i class="fal fa-download"></i> 点击下载](https://static.jovi.cc/sourcehansans.zip)
 
-包含字体
+<details>
+
+<summary> 包含字体列表 </summary>
 
 - SourceHanSansCN-ExtraLight.otf
 - SourceHanSansCN-Heavy.otf
@@ -226,11 +252,15 @@
 - SourceHanSansCN-Medium.otf
 - SourceHanSansCN-Normal.otf
 
+</details>
+
 ## A-OTF
 
-<a href="https://static.jovi.cc/A-OTF.zip" target="_blank" class="fal fa-download"> 点击下载</a>
+[<i class="fal fa-download"></i> 点击下载](https://static.jovi.cc/A-OTF.zip)
 
-包含字体
+<details>
+
+<summary> 包含字体列表 </summary>
 
 - A-OTF-A1MinchoStd-Bold.otf
 - A-OTF-FutoGoB101Pr5-Bold.otf
@@ -258,11 +288,15 @@
 - A-OTF-MidashiMinPr5-MA31.otf
 - A-OTF-MidashiMinPro-MA31.otf
 
+</details>
+
 ## 方正兰亭黑
 
-<a href="https://static.jovi.cc/FZlanting.zip" target="_blank" class="fal fa-download"> 点击下载</a>
+[<i class="fal fa-download"></i> 点击下载](https://static.jovi.cc/FZlanting.zip)
 
-包含字体
+<details>
+
+<summary> 包含字体列表 </summary>
 
 - 兰亭黑 GBK.TTF
 - 兰亭细黑 GBK Mobil.TTF
@@ -289,3 +323,5 @@
 - 兰亭特黑长简.TTF
 - 方正兰亭粗黑gb18030.TTF
 - 方正兰亭超细黑简体.TTF
+
+</details>
