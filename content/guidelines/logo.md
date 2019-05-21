@@ -18,7 +18,7 @@
 
 |一般使用|在深色背景上使用|
 |:--:|:--:|
-|![智课堂](../../assets/attachment/logos/logo__zkt.png) <br> 下载源文件: <br> [jpg](../../assets/attachment/logos/logo__zkt-jpg.zip)  · [png](../../assets/attachment/logos/logo__zkt-png.zip)· [svg](../../assets/attachment/logos/logo__zkt-svg.zip)  · [eps](../../assets/attachment/logos/logo__zkt-eps.zip)  |![智课堂](../../assets/attachment/logos/logo__zkt-inverse.png) <br> 下载源文件: <br> [jpg](../../assets/attachment/logos/logo__zkt-inverse-jpg.zip)  · [png](../../assets/attachment/logos/logo__zkt-inverse-png.zip)· [svg](../../assets/attachment/logos/logo__zkt-inverse-svg.zip)  · [eps](../../assets/attachment/logos/logo__zkt-inverse-eps.zip) |
+|![智课堂](../../assets/attachment/logos/logo__zkt.png) <br> 下载源文件: <br> [jpg](https://guidelines.cc/assets/attachment/logos/logo__zkt-jpg.zip)  · [png](https://guidelines.cc/assets/attachment/logos/logo__zkt-png.zip)· [svg](https://guidelines.cc/assets/attachment/logos/logo__zkt-svg.zip)  · [eps](https://guidelines.cc/assets/attachment/logos/logo__zkt-eps.zip)  |![智课堂](https://guidelines.cc/assets/attachment/logos/logo__zkt-inverse.png) <br> 下载源文件: <br> [jpg](https://guidelines.cc/assets/attachment/logos/logo__zkt-inverse-jpg.zip)  · [png](https://guidelines.cc/assets/attachment/logos/logo__zkt-inverse-png.zip)· [svg](https://guidelines.cc/assets/attachment/logos/logo__zkt-inverse-svg.zip)  · [eps](https://guidelines.cc/assets/attachment/logos/logo__zkt-inverse-eps.zip) |
 
 ### 简而优产品线
 
