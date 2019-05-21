@@ -10,6 +10,7 @@
 ||amazon.com
 ||ant.design
 ||applypixels.com
+||apple.com
 ||azureedge.net
 ||adobedtm.com
 ||adobeccstatic.com

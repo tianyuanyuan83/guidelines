@@ -4,7 +4,7 @@
 * 流程
   * [执行流程](content/flow/flow.md)
   * [交互设计走查](content/flow/IDChecklist.md)
-  * [UI设计走查](content/flow/UIChecklist.md)
+  <!-- * [UI设计走查](content/flow/UIChecklist.md) -->
   * [内部评审](content/flow/review.md)
 
 * UI设计规范

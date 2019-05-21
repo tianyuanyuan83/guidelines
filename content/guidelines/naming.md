@@ -2,8 +2,6 @@
 
 !> There are only two hard things in Computer Science: cache invalidation and naming things. <br> – Phil Karlton
 
-## 图层管理(sketch)
-
 <!-- <video src="https://static.jovi.cc/naming.mp4" width="600" controls="controls">
 Your browser does not support the video tag.
 ![sketch art board naming](https://guidelines.cc/assets/imgs/1_WEtHw89crn2bKV2mDf7dTA-2x.png)
@@ -108,7 +106,7 @@ type-block__element_modifier
 ![camelCase BEM + atomic prefix](https://guidelines.cc/assets/imgs/camelCase-BEM-answer.svg)
 
 atomic 设计理论的前缀+BEM
-推荐使用 
+推荐使用
 
 ```css
 [a/m/o]-blockName__elementName--modifierName
@@ -150,7 +148,7 @@ atomic 设计理论的前缀+BEM
 - renameit
 - replace2
 
-详见 [sketch plugin](https://guidelines.cc/assets/imgs/content/resources/sketchPlugins.html)
+详见 [sketch plugin](/content/resources/sketchPlugins.md ':target=_self')
 
 ## 语义化版本
 
