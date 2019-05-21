@@ -9,8 +9,8 @@
 项目库地址：
 
 * [guidelines@码云](https://gitee.com/uwings/guidelines)
-* [backup@gitlab](http://git.baotian.me:8000/jovi/guidelines)
-* ~~[guidelines@coding](https://coding.net/u/uwings/p/guidelines)~~
+<!-- * [backup@gitlab](http://git.baotian.me:8000/jovi/guidelines) -->
+<!-- * ~~[guidelines@coding](https://coding.net/u/uwings/p/guidelines)~~ -->
 
 反馈问题： <https://gitee.com/uwings/guidelines/issues>
 
