@@ -33,28 +33,28 @@
 
 视觉系统自动尝试将敞开的图形关闭起来，从而将其感知为完整的物体而不是分散的碎片。
 
-![封闭性原理；](https://guidelines.cc/assets/imgs/39397002.png ':size=500')
+![封闭性原理；](https://guidelines.cc/assets/imgs/39397002.png ':size=370')
 
 ## 对称性原理；
 
 我们倾向于分解复杂的场景来降低复杂度。
 
-![对称性原理；](https://guidelines.cc/assets/imgs/39430044.png ':size=500')
+![对称性原理；](https://guidelines.cc/assets/imgs/39430044.png ':size=370')
 
 ## 主体/背景原理；
 
 我们的大脑将视觉区域分为主体和背景。主体包括一个场景中占据我们主要注意力的所有元素，其余则是背景。
 当物体重叠时我们习惯把小的那个看成是背景之上的主体
 
-![主体/背景原理](https://guidelines.cc/assets/imgs/39519193.png ':size=500')
+![主体/背景原理](https://guidelines.cc/assets/imgs/39519193.png ':size=370')
 
 ## 共同命运原理。
 
 与接近性、相似永生原理相关，都影响我们感知的物体是否成组。指出一起运动的物体被感知为属于一组或者是彼此相关的。
 下面的数十个五边形中，如果其中的3个同步的前后摆动，那么虽然它们的距离较远，还是会被感知为一组
 
-![共同命运原理](https://guidelines.cc/assets/imgs/12c12c93-5214-4d90-8079-20a16b47e4b6.gif ':size=500')
+![共同命运原理](https://guidelines.cc/assets/imgs/12c12c93-5214-4d90-8079-20a16b47e4b6.gif ':size=370')
 
 同样间距大小颜色的图形，那么视觉上会把一起动的图形分为一组。文件夹拖动时同时选中的文件夹出现的反白背景及运动轨迹是共同命运原理最直观的解释。
 
-![共同命运原理](https://guidelines.cc/assets/imgs/39795790.png ':size=500')
+![共同命运原理](https://guidelines.cc/assets/imgs/39795790.png ':size=370')
