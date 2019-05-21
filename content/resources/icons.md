@@ -12,7 +12,7 @@ google Material design icons github和 sketch libraries
 
 [Iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/)
 
-## fontAwesome pro 5.7.2
+## fontAwesome pro 5.8.1
 
 font Awesome pro  付费版 5.8.1 资源
 

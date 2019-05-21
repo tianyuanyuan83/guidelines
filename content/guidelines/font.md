@@ -2,7 +2,7 @@
 
 ## 资源
 
-sketch 字体样式库，可在[sketch libraries](../resources/sketchLib.md) 菜单中选择使用。
+sketch 字体样式库，可在[sketch libraries](/content/resources/sketchLib.md) 菜单中选择使用。
 
 ## 字体设计规范
 
