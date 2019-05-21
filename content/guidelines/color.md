@@ -6,9 +6,9 @@
 
 |**theme**|primary|secondary|variant|other|
 |:--| :-- | :-- | :-- | :-- |
-|预览| <span style="margin:20px;padding:25px;background:#06f;float:left;"></span> | - | <span style="margin:20px;padding:25px;background:#0052CC;float:left;"></span> | <span style="margin:20px;padding:25px;background:#ccc;float:left;"></span> |
-|RGB色值|`rgb(0,102,255)`|-|`rgb(0,82,204)`|`rgb(204,204,204)`|
-|HEX色值|`#0066FF`|-|`#0052CC`|`#CCCCCC`|
+|预览| <span style="margin:20px;padding:25px;background:#26B8ED;float:left;"></span> | - | - | - |
+|RGB色值|`rgb(20,167,237)`|-|-|-|
+|HEX色值|`#26B8ED`|-|-|-|
 
 ### 配色体系
 
@@ -20,13 +20,13 @@
 
 |**theme**|primary|secondary|variant|other|
 |:--| :-- | :-- | :-- | :-- |
-|预览| <span style="margin:20px;padding:25px;background:#06f;float:left;"></span> | - | <span style="margin:20px;padding:25px;background:#0052CC;float:left;"></span> | <span style="margin:20px;padding:25px;background:#ccc;float:left;"></span> |
-|RGB色值|`rgb(0,102,255)`|-|`rgb(0,82,204)`|`rgb(204,204,204)`|
-|HEX色值|`#0066FF`|-|`#0052CC`|`#CCCCCC`|
+|预览| <span style="margin:20px;padding:25px;background:#0E8BED;float:left;"></span> | - | - | - |
+|RGB色值|`rgb(14,139,237)`|-|-|-|
+|HEX色值|`#0E8BED`|-|-|-|
 
 ### 智课堂·配色体系
 
-![colors](https://guidelines.cc/assets/imgs/jd100-12cp.png)
+![colors](https://guidelines.cc/assets/imgs/zkt-12cp.png)
 
 ## 简而优产品线
 
@@ -36,13 +36,13 @@
 
 |**theme**|primary|secondary|variant|other|
 |:--| :-- | :-- | :-- | :-- |
-|预览| <span style="margin:20px;padding:25px;background:#06f;float:left;"></span> | - | <span style="margin:20px;padding:25px;background:#0052CC;float:left;"></span> | <span style="margin:20px;padding:25px;background:#ccc;float:left;"></span> |
-|RGB色值|`rgb(0,102,255)`|-|`rgb(0,82,204)`|`rgb(204,204,204)`|
-|HEX色值|`#0066FF`|-|`#0052CC`|`#CCCCCC`|
+|预览| <span style="margin:20px;padding:25px;background:#276AFF;float:left;"></span> | - | - | - |
+|RGB色值|`rgb(39,106,255)`|-|-|-|
+|HEX色值|`#276AFF`|-|-|-|
 
 #### 双师精品课·配色体系
 
-![colors](https://guidelines.cc/assets/imgs/jd100-12cp.png)
+![colors](https://guidelines.cc/assets/imgs/ssjpk-12cp.png)
 
 ### 简教练颜色系统
 
@@ -50,14 +50,12 @@
 
 |**theme**|primary|secondary|variant|other|
 |:--| :-- | :-- | :-- | :-- |
-|预览| <span style="margin:20px;padding:25px;background:#ff5f5f;float:left;"></span> | - | - | - |
-|RGB色值|`rgb(255,95,95)`|-|-|-|
-|HEX色值|`#FF5F5F`|-|-|-|
+|预览| <span style="margin:20px;padding:25px;background:#ff4c4c;float:left;"></span> | - | - | - |
+|RGB色值|`rgb(255,76,76)`|-|-|-|
+|HEX色值|`#FF4C4C`|-|-|-|
 
 #### 简教练·配色体系
 
-![colors](https://guidelines.cc/assets/imgs/jd100-12cp.png)
+![colors](https://guidelines.cc/assets/imgs/jjl-12cp.png)
 
 ## 颜色使用
-
-?> _TODO_ 待完善
