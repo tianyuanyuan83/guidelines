@@ -14,6 +14,7 @@
   * [logo](content/guidelines/logo.md)
   * [颜色](content/guidelines/color.md)
   * [字体](content/guidelines/font.md)
+  * [布局](content/guidelines/layout.md)
 
 * 资源
   * [Design systems](content/resources/designSystems.md)
@@ -32,13 +33,12 @@
 * 方法论
   * [产品](content/method/product.md)
   * [设计](content/method/design.md)
-  * [其他](content/method/other.md)
   * 专题
     * [尼尔森启发式评估](content/method/topic/nielsen.md)
     * [Tog 交互式设计原则](content/method/topic/tog.md)
     * [格式塔原则](content/method/topic/gestalt.md)
+  * [其他](content/method/other.md)
 
 * 其他
   * [常用软件](content/other/software.md)
   * [Shadowsocks Pac Rule](content/other/sspac.md)
-  * [团队链接](content/teamLinks.md)
