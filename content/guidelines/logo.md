@@ -24,7 +24,8 @@
 
 |一般使用|在深色背景上使用|有限空间内使用图形logo|
 |:--:|:--:|:--:|
-|![智课堂](/assets/attachment/logos/{replace}.png) <i class="fal fa-download"></i> 下载   [jpg](/assets/attachment/logos/{replace}-jpg.zip)  · [png](/assets/attachment/logos/{replace}-png.zip)· [svg](/assets/attachment/logos/{replace}-svg.zip)  · [eps](/assets/attachment/logos/{replace}-eps.zip)  |![智课堂](/assets/attachment/logos/{replace}-inverse.png) <i class="fal fa-download"></i> 下载   [jpg](/assets/attachment/logos/{replace}-inverse-jpg.zip)  · [png](/assets/attachment/logos/{replace}-inverse-png.zip)· [svg](/assets/attachment/logos/{replace}-inverse-svg.zip)  · [eps](/assets/attachment/logos/{replace}-inverse-eps.zip) |![智课堂](/assets/attachment/logos/{replace}-shapeonly.png) <i class="fal fa-download"></i> 下载   [jpg](/assets/attachment/logos/{replace}-shapeonly-jpg.zip)  · [png](/assets/attachment/logos/{replace}-shapeonly-png.zip)· [svg](/assets/attachment/logos/{replace}-shapeonly-svg.zip)  · [eps](/assets/attachment/logos/{replace}-shapeonly-eps.zip) | -->
+|![简教练](https://guidelines.cc/assets/attachment/logos/logo__ssjpk.png) |![简教练](https://guidelines.cc/assets/attachment/logos/logo__ssjpk-inverse.png) |
+|<i class="fal fa-download"></i> 下载   [jpg](https://guidelines.cc/assets/attachment/logos/logo__ssjpk-jpg.zip)  · [png](https://guidelines.cc/assets/attachment/logos/logo__ssjpk-png.zip)· [svg](https://guidelines.cc/assets/attachment/logos/logo__ssjpk-svg.zip)  · [eps](https://guidelines.cc/assets/attachment/logos/logo__ssjpk-eps.zip)  |<i class="fal fa-download"></i> 下载   [jpg](https://guidelines.cc/assets/attachment/logos/logo__ssjpk-inverse-jpg.zip)  · [png](https://guidelines.cc/assets/attachment/logos/logo__ssjpk-inverse-png.zip)· [svg](https://guidelines.cc/assets/attachment/logos/logo__ssjpk-inverse-svg.zip)  · [eps](https://guidelines.cc/assets/attachment/logos/logo__ssjpk-inverse-eps.zip) | -->
 
 #### 简教练
 
