@@ -3,7 +3,7 @@
 _基于RSS更新的Sketch库_
 简单UED库内容更新以此版本为准。
 点击对应链接添加该库到sketch library，弹出打开方式请选择允许sketch打开，添加后将会接受该库的后续更新推送，无缝更新。
-<img src="https://guidelines.cc/2019-04-27_15-42-45.png" alt="弹出打开方式请选择允许sketch打开" style="width:50%;display:block;" />
+<img src="https://guidelines.cc/assets/imgs/2019-04-27_15-42-45.png" alt="弹出打开方式请选择允许sketch打开" style="width:50%;display:block;" />
 
 <span style="font-weight:700;color:red;">库文件基于 <i style="text-decoration:underline;">sketch 53.2</i> 版本，低于该版本软件可能无法成功添加为库文件。</span>
 

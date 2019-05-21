@@ -233,12 +233,12 @@
 <span style="display:block;color:blue;font-weight:700;font-size:16px;">[原则]：用视觉的线框图传达你的手势用词</span>
 
 包含一个展示手势如何使用的帮助页面是可以理解的。当用户第一次打开APP的时候展现那个页面并且清晰地告诉用户如何之后再次找到那个帮助页面。对于杂志和相似的类型的APP，让帮助页面在第一次打开一本杂志的时候出现。
-![QtvLatieRo](https://guidelines.cc/pb-QtvLatieRo.png)
+![QtvLatieRo](https://guidelines.cc/assets/imgs/pb-QtvLatieRo.png)
 
 <span style="display:block;color:blue;font-weight:700;font-size:16px;">[原则]：寻求平衡</span>
 
 这不是1980年，那时候大多数人都没有见过电脑，我们有必要让每件东西都保持高度可见。而现在你可以在设计中使用一些微妙的东西：不要在一个页面上每个单独的项目旁边都放一个信息的icon，可以是用上像Google+snapseed的遮盖图层一样一次解释每个形状或手势：
-![9MNDhol6Fo](https://guidelines.cc/pb-9MNDhol6Fo.png)
+![9MNDhol6Fo](https://guidelines.cc/assets/imgs/pb-9MNDhol6Fo.png)
 把遮盖层放在那里很难看清，但是开发者通过标签和箭头优雅地强调了他们的各个选项。你如何发现这种强调是不是必要的？你怎么发现用户是不是知道点击什么？
 
 看下面的那个[原则]：
@@ -377,7 +377,7 @@
 
 <span style="display:block;color:blue;font-weight:700;font-size:16px;">[原则]：当用户面对延迟的时候让他们知道</span>
 
-![iSmCZFyWcB](https://guidelines.cc/pb-iSmCZFyWcB.png)
+![iSmCZFyWcB](https://guidelines.cc/assets/imgs/pb-iSmCZFyWcB.png)
 
 ## 易学性：
 
@@ -408,7 +408,7 @@
 在软件中尽力使你的概念视觉明显。如果有困难，通过插图的形式。插图应该是简洁的并且有意义的。测试它是否有效，然后应用它。
 
 > 案例研究：苹果的超级卡片浏览器
-> ![lFzixIB0az](https://guidelines.cc/pb-lFzixIB0az.png)
+> ![lFzixIB0az](https://guidelines.cc/assets/imgs/pb-lFzixIB0az.png)
 > 对于网页，有三层结构。每个网页上都有的公共部分叫做背景层；一个前景层：拥有与每个单独的卡片有关的元素；还有一个逻辑控制层，带有各种各样的按钮等元素。如果你不明白这个概念，你就不能使用这个东西。几乎没有人能明白这个概念除了一个图形设计师，Kristee Kreitman，画了一个分层的图片展示了这三层。当我们测试的时候，每个人立即明白了他。他的发明者用了20页的文字说明它，没有任何效果。一个图片完全搞定。
 
 <span style="display:block;color:blue;font-weight:700;font-size:16px;">[原则]：不必完全照抄真实世界的东西</span>
@@ -420,7 +420,7 @@
 <span style="display:block;color:blue;font-weight:700;font-size:16px;">[原则]：如果隐喻不会帮助你，就抛弃隐喻</span>
 
 通常隐喻有利于你的用户理解软件，然而，有可能它也会起相反的效果。（译者注：记得之前锤子系统的京东图标是一个纸箱子，灰色的，第一张图，用户一眼一看根本就无法第一时间找到，因为与原红色的京东图标差距很大，虽然很漂亮，但是实用性不好。之后他们把图标改了，如第二张图，这样效果好多了）
-![qDDhERKNsH](https://guidelines.cc/pb-qDDhERKNsH.png)
+![qDDhERKNsH](https://guidelines.cc/assets/imgs/pb-qDDhERKNsH.png)
 
 ## 保存用户的工作：
 
