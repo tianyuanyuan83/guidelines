@@ -1,5 +1,5 @@
 
-* [GuideLines.cc](README.md)
+* [README](README.md)
 
 * 流程
   * [执行流程](content/flow/flow.md)
