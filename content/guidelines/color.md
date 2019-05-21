@@ -14,7 +14,6 @@
 
 ![colors](https://guidelines.cc/assets/imgs/jd100-12cp.png)
 
-
 ## 智课堂颜色系统
 
 ### 智课堂·主色
@@ -58,3 +57,7 @@
 #### 简教练·配色体系
 
 ![colors](https://guidelines.cc/assets/imgs/jd100-12cp.png)
+
+## 颜色使用
+
+?> _TODO_ 待完善

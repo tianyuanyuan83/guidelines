@@ -1,8 +1,6 @@
 # 命名空间
 
-> There are only two hard things in Computer Science: cache invalidation and naming things.
->
-> – Phil Karlton
+!> There are only two hard things in Computer Science: cache invalidation and naming things. <br> – Phil Karlton
 
 ## 图层管理(sketch)
 
@@ -83,7 +81,7 @@ type-block__element_modifier
 .list__item_active{}
 ```
 
-![bem](https://guidelines.cc/assets/imgs/bem.jpg)
+![bem](https://guidelines.cc/assets/imgs/bem.jpg ':size=500')
 
 标准BEM命名示例
 
@@ -95,7 +93,7 @@ type-block__element_modifier
 
 ### atomic 理论框架
 
-![atomic](https://guidelines.cc/assets/imgs/uisdc-yz-20181113-21.jpg)
+![atomic](https://guidelines.cc/assets/imgs/uisdc-yz-20181113-21.jpg ':size=500')
 
 ### atomic design 的 [a,m,o]
 
@@ -153,3 +151,7 @@ atomic 设计理论的前缀+BEM
 - replace2
 
 详见 [sketch plugin](https://guidelines.cc/assets/imgs/content/resources/sketchPlugins.html)
+
+## 语义化版本
+
+使用 [Semantic Versioning](https://semver.org/lang/zh-CN/) 2.0.0 语义化版本规范。

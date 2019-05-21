@@ -7,4 +7,4 @@
 <!-- * 链接 -->
 * <span class="fal fa-link"></span> 链接
   * [团队链接](content/teamLinks.md)
-  * [会议记录](https://ued.jovi.cc/weeklymeeting/)
+  * [会议记录(内网)](https://ued.jovi.cc/weeklymeeting/)

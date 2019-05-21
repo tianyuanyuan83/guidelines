@@ -8,6 +8,8 @@
   * [Agile](content/flow/Agile.md)
   * [Growth Hack](content/flow/growthHack.md)
   * [内部评审](content/flow/review.md)
+  * [交互设计走查](content/flow/IDChecklist.md)
+  * [UI设计走查](content/flow/UIChecklist.md)
 
 * UI设计规范
   * [命名空间](content/guidelines/naming.md)
@@ -15,11 +17,13 @@
   * [颜色](content/guidelines/color.md)
   * [字体](content/guidelines/font.md)
   * [布局](content/guidelines/layout.md)
+  * [图标](content/guidelines/icon.md)
+  * [可用性](content/guidelines/usability.md)
 
 * 资源
   * [Design systems](content/resources/designSystems.md)
-  <!-- * [Sketch library](content/resources/sketchLib.md) -->
-  * <a class="fal fa-gem" href="#/content/resources/sketchLib"> Sketch library</a>
+  * [Sketch library](content/resources/sketchLib.md)
+  <!-- * <a class="fal fa-gem" href="#/content/resources/sketchLib"> Sketch library</a> -->
   * [Sketch plugins](content/resources/sketchPlugins.md)
   * [Font Icon](content/resources/icons.md)
   * [Fonts](content/resources/fonts.md)
