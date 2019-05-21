@@ -115,6 +115,7 @@
 ||setapp.com
 ||sketchapp.com
 ||sketch.cloud
+||stackoverflow.com
 ||sketchpacks.com
 ||smallpdf.com
 !
@@ -158,3 +159,6 @@
 ||googletagmanager.com
 ||google-analytics.com
 ||doubleclick.net
+!===== squash =====
+||paddleapi.com
+||devmate.com

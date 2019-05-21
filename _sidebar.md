@@ -3,13 +3,9 @@
 
 * 流程
   * [执行流程](content/flow/flow.md)
-  * [Design Thinking](content/flow/designThinking.md)
-  * [Lean ux](content/flow/leanUx.md)
-  * [Agile](content/flow/Agile.md)
-  * [Growth Hack](content/flow/growthHack.md)
-  * [内部评审](content/flow/review.md)
   * [交互设计走查](content/flow/IDChecklist.md)
   * [UI设计走查](content/flow/UIChecklist.md)
+  * [内部评审](content/flow/review.md)
 
 * UI设计规范
   * [命名空间](content/guidelines/naming.md)
@@ -44,6 +40,8 @@
     * [格式塔原则](content/method/topic/gestalt.md)
   * [其他](content/method/other.md)
 
+* 参考
+  * [参考](references.md)
 * 其他
   * [常用软件](content/other/software.md)
   * [Shadowsocks Pac Rule](content/other/sspac.md)
