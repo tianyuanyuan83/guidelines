@@ -6,13 +6,13 @@
 
 *设备像素比相同都是@1x时， 1pt(iOS)=1sp(android text)=1dp(android)=1px*
 
-![layout-unitsmeasurements](https://guidelines.cc/assets/imgs/layout-unitsmeasurements-dev-grid.png)
+![layout-unitsmeasurements](../../assets/imgs/layout-unitsmeasurements-dev-grid.png)
 
 ## 栅格化布局
 
 栅格化布局包含三种元素：
 
-![responsive-columns-margins-gutters](https://guidelines.cc/assets/imgs/responsive-columns-margins-gutters.png)
+![responsive-columns-margins-gutters](../../assets/imgs/responsive-columns-margins-gutters.png)
 
 - 列
 - 间距
@@ -23,10 +23,10 @@
 网页、app的内容应该放置在列的区域内（包含间距），不应超出列（放置到补白范围内）。
 列宽度通常使用百分比定义，而不是使用固定的数值。以适应内容和屏幕尺寸的灵活响应。不同设备屏幕包含的列数通过`breakpoint`来设置。
 
-![layout-responsive-columns-360](https://guidelines.cc/assets/imgs/layout-responsive-columns-360.png)
+![layout-responsive-columns-360](../../assets/imgs/layout-responsive-columns-360.png)
 360dp手机屏幕使用4列布局。
 
-![layout-responsive-columns-600](https://guidelines.cc/assets/imgs/layout-responsive-columns-600.png)
+![layout-responsive-columns-600](../../assets/imgs/layout-responsive-columns-600.png)
 600dp的pad屏幕使用8列布局。
 
 ### 间距
@@ -35,10 +35,10 @@
 
 间距通常使用固定值，根据屏幕的大小分成几种不同大小的固定尺寸。
 
-![layout-responsive-gutters-360](https://guidelines.cc/assets/imgs/layout-responsive-gutters-360.png)
+![layout-responsive-gutters-360](../../assets/imgs/layout-responsive-gutters-360.png)
 360dp手机屏幕使用16dp间距。
 
-![layout-responsive-gutters-600](https://guidelines.cc/assets/imgs/layout-responsive-gutters-600.png)
+![layout-responsive-gutters-600](../../assets/imgs/layout-responsive-gutters-600.png)
 360dp的pad屏幕使用24dp间距。
 
 ## 补白
@@ -47,10 +47,10 @@
 
 通常根据breakpoint使用固定值，根据屏幕大小改变补白的宽度，跟间距一样，补白通常也是根据breakpoint，屏幕越大宽度越宽。
 
-![layout-responsive-margins-360](https://guidelines.cc/assets/imgs/layout-responsive-margins-360.png)
+![layout-responsive-margins-360](../../assets/imgs/layout-responsive-margins-360.png)
 360dp手机屏幕使用16dp补白。
 
-![layout-responsive-margins-600](https://guidelines.cc/assets/imgs/layout-responsive-margins-600.png)
+![layout-responsive-margins-600](../../assets/imgs/layout-responsive-margins-600.png)
 600dp的pad使用24dp间距。
 
 !> 栅格系统可以根据自身需求和设计风格灵活制定，但需遵守基本的设计审美。 在新的交互、设计规范推出之前，请严格遵守标准的breakpoint标准和栅格布局尺寸。
@@ -89,7 +89,7 @@ Your browser does not support the video tag.
 
 容器主要用来容纳一些特定的UI元素，比如：图标、图片，和material design的 Material/surface。
 
-![layout-unitsmeasurements-dev-containers](https://guidelines.cc/assets/imgs/layout-unitsmeasurements-dev-containers.png)
+![layout-unitsmeasurements-dev-containers](../../assets/imgs/layout-unitsmeasurements-dev-containers.png)
 
 1. 图像容器
 2. 图标容器
@@ -100,4 +100,4 @@ Your browser does not support the video tag.
 为保持布局的一致性，请在图标和不居中尽量使用一致的宽高比。
 建议使用： `16:9`，`3:2`，`4:3`，`1:1`，`3：4`，`2:3`
 
-![layout-unitsmeasurements-dev-aspectratio](https://guidelines.cc/assets/imgs/layout-unitsmeasurements-dev-aspectratio.png)
+![layout-unitsmeasurements-dev-aspectratio](../../assets/imgs/layout-unitsmeasurements-dev-aspectratio.png)

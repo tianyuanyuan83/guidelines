@@ -20,15 +20,15 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hira
 
 我们基于电脑显示器阅读距离（50 cm）以及最佳阅读角度（0.3）对 Ant Design 的主字体进行了一次升级，从原先的 12 上升至 14，以保证在多数常用显示器上的用户阅读效率最佳。
 
-![最佳字体大小](https://guidelines.cc/assets/imgs/yriUFbqOPtVniYYiikfb.png)
+![最佳字体大小](../../assets/imgs/yriUFbqOPtVniYYiikfb.png)
 
 ## 字阶与行高
 
 字阶和行高决定着一套字体系统的动态与秩序之美。字阶是指一系列有规律的不同尺寸的字体。行高可以理解为一个包裹在字体外面的无形的盒子。
 
-![字阶](https://guidelines.cc/assets/imgs/xpykKKFJQorFJltdXkie.png)
+![字阶](../../assets/imgs/xpykKKFJQorFJltdXkie.png)
 
-![行高](https://guidelines.cc/assets/imgs/iFjgfIBExksqCqGMwUlw.png)
+![行高](../../assets/imgs/iFjgfIBExksqCqGMwUlw.png)
 
 
 ## 字体设计规范
@@ -61,7 +61,7 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hira
 | button L | 16 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |  |  |  |  |  |  | ✔️ |
 | button S | 14 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |  |  |  |  |  |  | ✔️ | -->
 
-![font style table](https://guidelines.cc/assets/imgs/pb-jx4ZAjh1fL.png)
+![font style table](../../assets/imgs/pb-jx4ZAjh1fL.png)
 
 ### 主题字体颜色表：
 

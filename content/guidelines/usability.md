@@ -40,4 +40,3 @@
 - 渐变的一端与字体颜色的对比度至少为4.5：1 ，文本必须具有4px文本阴影，其颜色与字体颜色的对比度至少为7：1。
 
 [reference](https://www.lightningdesignsystem.com/accessibility/guidelines/text-on-backgrounds/)
-

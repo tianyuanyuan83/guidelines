@@ -12,7 +12,7 @@
 
 ### 配色体系
 
-![colors](https://guidelines.cc/assets/imgs/jd100-12cp.png)
+![colors](../../assets/imgs/jd100-12cp.png)
 
 ## 智课堂颜色系统
 
@@ -26,7 +26,7 @@
 
 ### 智课堂·配色体系
 
-![colors](https://guidelines.cc/assets/imgs/zkt-12cp.png)
+![colors](../../assets/imgs/zkt-12cp.png)
 
 ## 简而优产品线
 
@@ -42,7 +42,7 @@
 
 #### 双师精品课·配色体系
 
-![colors](https://guidelines.cc/assets/imgs/ssjpk-12cp.png)
+![colors](../../assets/imgs/ssjpk-12cp.png)
 
 ### 简教练颜色系统
 
@@ -56,6 +56,6 @@
 
 #### 简教练·配色体系
 
-![colors](https://guidelines.cc/assets/imgs/jjl-12cp.png)
+![colors](../../assets/imgs/jjl-12cp.png)
 
 ## 颜色使用
