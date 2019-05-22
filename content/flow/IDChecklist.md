@@ -8,7 +8,7 @@
 
 [侯雯佩](https://medium.com/@houwenpei)
 
-![Google对话式交互规范指南：设计走查清单](../../assets/imgs/googlevui4-20180101-1.jpg ':size=450')
-![Google对话式交互规范指南：设计走查清单](../../assets/imgs/googlevui4-20180101-2.jpg ':size=450')
-![Google对话式交互规范指南：设计走查清单](../../assets/imgs/googlevui4-20180101-3.jpg ':size=450')
-![Google对话式交互规范指南：设计走查清单](../../assets/imgs/googlevui4-20180101-4.jpg ':size=450')
+![Google对话式交互规范指南：设计走查清单](../../assets/imgs/googlevui4-20180101-1.jpg)
+![Google对话式交互规范指南：设计走查清单](../../assets/imgs/googlevui4-20180101-2.jpg)
+![Google对话式交互规范指南：设计走查清单](../../assets/imgs/googlevui4-20180101-3.jpg)
+![Google对话式交互规范指南：设计走查清单](../../assets/imgs/googlevui4-20180101-4.jpg)
