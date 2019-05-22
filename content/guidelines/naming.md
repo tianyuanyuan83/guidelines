@@ -4,7 +4,7 @@
 
 <!-- <video src="https://static.jovi.cc/naming.mp4" width="600" controls="controls">
 Your browser does not support the video tag.
-![sketch art board naming](https://guidelines.cc/assets/imgs/1_WEtHw89crn2bKV2mDf7dTA-2x.png)
+
 </video> -->
 
 ## BEM
@@ -141,6 +141,8 @@ atomic 设计理论的前缀+BEM
 ![a designer's way of keeping files organized2](https://guidelines.cc/assets/imgs/image-5_folder-algorithm-2.jpg)
 
 [File naming convertion](http://design.palkobotond.ro/naming-convention-1/)
+
+![sketch art board naming](https://guidelines.cc/assets/imgs/1_WEtHw89crn2bKV2mDf7dTA-2x.png)
 
 ## 辅助插件
 

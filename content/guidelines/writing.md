@@ -575,11 +575,12 @@
 
 ?> _TODO_ 待完善
 
-## references
+### references
 
 - [11 Golden Rules of Writing Content for Your Website | Jimdo Blog](https://www.jimdo.com/blog/11-golden-rules-of-writing-website-content/)
 - [16 Rules of Effective UX Writing – UX Planet](https://uxplanet.org/16-rules-of-effective-ux-writing-2a20cf85fdbf)
 - [https://material.io/design/usability/accessibility.html#writing](https://material.io/design/usability/accessibility.html#writing) 
 - [Accessible Web Design Guidelines - Lightning Design System](https://www.lightningdesignsystem.com/accessibility/guidelines/web-design/#site-main-content)
+- [material design Writing](https://material.io/design/usability/accessibility.html#writing)
 
 </div>

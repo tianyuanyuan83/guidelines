@@ -1,8 +1,35 @@
 # 字体
 
-## 资源
+字体是体系化界面设计中最基本的构成之一。
 
-sketch 字体样式库，可在[sketch libraries](/content/resources/sketchLib.md) 菜单中选择使用。
+我们的用户通过文本来理解内容和完成工作，科学的字体系统将大大提升用户的阅读体验及工作效率。
+
+## 字体家族
+
+优秀的字体系统首先是要选择合适的字体家族。Ant Design 的字体家族中优先使用系统默认的界面字体，同时提供了一套利于屏显的备用字体库，来维护在不同平台以及浏览器的显示下，字体始终保持良好的易读性和可读性，体现了友好、稳定和专业的特性。
+
+可以调用系统内置字体
+
+```css
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB',
+  'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, sans-serif, 'Apple Color Emoji',
+  'Segoe UI Emoji', 'Segoe UI Symbol';
+```
+
+## 主字体
+
+我们基于电脑显示器阅读距离（50 cm）以及最佳阅读角度（0.3）对 Ant Design 的主字体进行了一次升级，从原先的 12 上升至 14，以保证在多数常用显示器上的用户阅读效率最佳。
+
+![最佳字体大小](https://guidelines.cc/assets/imgs/yriUFbqOPtVniYYiikfb.png)
+
+## 字阶与行高
+
+字阶和行高决定着一套字体系统的动态与秩序之美。字阶是指一系列有规律的不同尺寸的字体。行高可以理解为一个包裹在字体外面的无形的盒子。
+
+![字阶](https://guidelines.cc/assets/imgs/xpykKKFJQorFJltdXkie.png)
+
+![行高](https://guidelines.cc/assets/imgs/iFjgfIBExksqCqGMwUlw.png)
+
 
 ## 字体设计规范
 
@@ -11,6 +38,7 @@ sketch 字体样式库，可在[sketch libraries](/content/resources/sketchLib.m
 - 桌面客户端应用&web端 ： 微软雅黑版本
 - android设备：noto sans版本
 - iOS设备：pingfang版本
+
 
 ### 字体设计规则表
 
@@ -78,3 +106,8 @@ UI中不同场景会用到字体颜色表达优先级和信息主次，主要分
 | regular | 400 |  <span style="font-size:16px;color:#000; font-weight:400;">测试文字 <br> Lorem ipsum dolor sit amet</span> |
 | medium | 500 |  <span style="font-size:16px;color:#000; font-weight:500;">测试文字 <br> Lorem ipsum dolor sit amet</span> |
 | blod | 700 |  <span style="font-size:16px;color:#000; font-weight:700;">测试文字 <br> Lorem ipsum dolor sit amet</span> |
+
+
+## 资源
+
+sketch 字体样式库，可在[sketch libraries](/content/resources/sketchLib.md) 菜单中选择使用。
