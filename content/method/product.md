@@ -8,7 +8,7 @@
 * 无差异因素——用户根本不在意的功能需求；
 * 反向因素——无此需求满意度不变，有次需求则满意度下降。
 
-![KANO模型](https://guidelines.cc/assets/imgs/1_MvE5UKwENsO82KmIRbucFg.png)
+![KANO模型](../../assets/imgs/1_MvE5UKwENsO82KmIRbucFg.png)
 
 ## Occam's Razor 奥卡姆剃刀原理（简单有效原理）
 

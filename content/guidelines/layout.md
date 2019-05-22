@@ -55,7 +55,7 @@
 
 !> 栅格系统可以根据自身需求和设计风格灵活制定，但需遵守基本的设计审美。 在新的交互、设计规范推出之前，请严格遵守标准的breakpoint标准和栅格布局尺寸。
 
-<video src="https://guidelines.cc/assets/imgs/layout-responsive-breakpoints.mp4" width="600" controls="controls">
+<video src="https://guidelines.cc/assets/imgs/layout-responsive-breakpoints.mp4" width="100%" controls="controls">
 Your browser does not support the video tag.
 </video>
 
