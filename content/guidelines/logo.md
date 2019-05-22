@@ -47,8 +47,13 @@
 
 |一般使用|在深色背景上使用|
 |:--:|:--:|
-|![智课堂](../../assets/attachment/logos/logo__zkt.png ':size=300') |![智课堂](https://guidelines.cc/assets/attachment/logos/logo__zkt-inverse.png ':size=300') |
+|![智课堂](../../assets/attachment/logos/logo__zkt.png ':size=300') |![智课堂](/assets/attachment/logos/logo__zkt-inverse.png ':size=300') |
 |<i class="fal fa-download"></i> 下载   [jpg 格式](https://guidelines.cc/assets/attachment/logos/logo__zkt-jpg.zip)  · [png 格式](https://guidelines.cc/assets/attachment/logos/logo__zkt-png.zip)· [svg 格式](https://guidelines.cc/assets/attachment/logos/logo__zkt-svg.zip)  · [eps 格式](https://guidelines.cc/assets/attachment/logos/logo__zkt-eps.zip)  |<i class="fal fa-download"></i> 下载   [jpg 格式](https://guidelines.cc/assets/attachment/logos/logo__zkt-inverse-jpg.zip)  · [png 格式](https://guidelines.cc/assets/attachment/logos/logo__zkt-inverse-png.zip)· [svg 格式](https://guidelines.cc/assets/attachment/logos/logo__zkt-inverse-svg.zip)  · [eps 格式](https://guidelines.cc/assets/attachment/logos/logo__zkt-inverse-eps.zip) |
+
+|一般使用|在深色背景上使用|
+|:--:|:--:|
+|![智课堂](https://guidelines.cc/assets/attachment/logos/logo__zkt__desktop__shapeonly.png ':size=300') |![智课堂](https://guidelines.cc/assets/attachment/logos/logo__zkt__desktop__shapeonly-inverse.png ':size=300') |
+|<i class="fal fa-download"></i> 下载   [jpg 格式](https://guidelines.cc/assets/attachment/logos/logo__zkt__desktop__shapeonly-jpg.zip)  · [png 格式](https://guidelines.cc/assets/attachment/logos/logo__zkt__desktop__shapeonly-png.zip)· [svg 格式](https://guidelines.cc/assets/attachment/logos/logo__zkt__desktop__shapeonly-svg.zip)  · [eps 格式](https://guidelines.cc/assets/attachment/logos/logo__zkt__desktop__shapeonly-eps.zip)  |<i class="fal fa-download"></i> 下载   [jpg 格式](https://guidelines.cc/assets/attachment/logos/logo__zkt__desktop__shapeonly-inverse-jpg.zip)  · [png 格式](https://guidelines.cc/assets/attachment/logos/logo__zkt__desktop__shapeonly-inverse-png.zip)· [svg 格式](https://guidelines.cc/assets/attachment/logos/logo__zkt__desktop__shapeonly-inverse-svg.zip)  · [eps 格式](https://guidelines.cc/assets/attachment/logos/logo__zkt__desktop__shapeonly-inverse-eps.zip) |
 
 ### 简而优产品线
 
@@ -65,12 +70,12 @@
 
 |一般使用|在深色背景上使用|
 |:--:|:--:|
-|![简教练](https://guidelines.cc/assets/attachment/logos/logo__jjl-inverse.png ':size=100') |![简教练](https://guidelines.cc/assets/attachment/logos/logo__jjl.png ':size=300') |
-|<i class="fal fa-download"></i> 下载   [jpg 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl-inverse-jpg.zip)  · [png 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl-inverse-png.zip)· [svg 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl-inverse-svg.zip)  · [eps 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl-inverse-eps.zip) |<i class="fal fa-download"></i> 下载   [jpg 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl-jpg.zip)  · [png 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl-png.zip)· [svg 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl-svg.zip)  · [eps 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl-eps.zip)  |
+|![简教练](https://guidelines.cc/assets/attachment/logos/logo__jjl.png ':size=300') |![简教练](https://guidelines.cc/assets/attachment/logos/logo__jjl-inverse.png ':size=300') |
+| <i class="fal fa-download"></i> 下载   [jpg 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl-jpg.zip)  · [png 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl-png.zip)· [svg 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl-svg.zip)  · [eps 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl-eps.zip) |<i class="fal fa-download"></i> 下载   [jpg 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl-inverse-jpg.zip)  · [png 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl-inverse-png.zip)· [svg 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl-inverse-svg.zip)  · [eps 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl-inverse-eps.zip)  |
 
 ##### 简教练桌面应用
 
-|在深色背景上使用|仅图形使用-启动图标|
+|仅图形使用-启动图标|在深色背景上使用|
 |:--:|:--:|
-|![简教练](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop.png ':size=300') |![简教练](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-shapeonly.png ':size=300') |
-|<i class="fal fa-download"></i> 下载   [jpg 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-jpg.zip)  · [png 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-png.zip)· [svg 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-svg.zip)  · [eps 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-eps.zip)  |<i class="fal fa-download"></i> 下载   [jpg 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-shapeonly-jpg.zip)  · [png 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-shapeonly-png.zip)· [svg 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-shapeonly-svg.zip)  · [eps 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-shapeonly-eps.zip) |
+|![简教练](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-shapeonly.png ':size=96') |![简教练](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop.png ':size=300') |
+|<i class="fal fa-download"></i> 下载   [jpg 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-shapeonly-jpg.zip)  · [png 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-shapeonly-png.zip)· [svg 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-shapeonly-svg.zip)  · [eps 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-shapeonly-eps.zip) |<i class="fal fa-download"></i> 下载   [jpg 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-jpg.zip)  · [png 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-png.zip)· [svg 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-svg.zip)  · [eps 格式](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-eps.zip) |
