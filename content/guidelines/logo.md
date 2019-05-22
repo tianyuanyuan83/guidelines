@@ -63,7 +63,16 @@
 
 #### 简教练
 
+##### 简教练logo
+
 |一般使用|在深色背景上使用|
 |:--:|:--:|
 |![简教练](https://guidelines.cc/assets/attachment/logos/logo__jjl.png ':size=300') |![简教练](https://guidelines.cc/assets/attachment/logos/logo__jjl-inverse.png ':size=300') |
 |<i class="fal fa-download"></i> 下载   [jpg](https://guidelines.cc/assets/attachment/logos/logo__jjl-jpg.zip)  · [png](https://guidelines.cc/assets/attachment/logos/logo__jjl-png.zip)· [svg](https://guidelines.cc/assets/attachment/logos/logo__jjl-svg.zip)  · [eps](https://guidelines.cc/assets/attachment/logos/logo__jjl-eps.zip)  |<i class="fal fa-download"></i> 下载   [jpg](https://guidelines.cc/assets/attachment/logos/logo__jjl-inverse-jpg.zip)  · [png](https://guidelines.cc/assets/attachment/logos/logo__jjl-inverse-png.zip)· [svg](https://guidelines.cc/assets/attachment/logos/logo__jjl-inverse-svg.zip)  · [eps](https://guidelines.cc/assets/attachment/logos/logo__jjl-inverse-eps.zip) |
+
+##### 简教练桌面应用
+
+|在深色背景上使用|仅图形使用-启动图标|
+|:--:|:--:|
+|![简教练](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop.png ':size=300') |![简教练](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-shapeonly.png ':size=300') |
+|<i class="fal fa-download"></i> 下载   [jpg](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-jpg.zip)  · [png](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-png.zip)· [svg](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-svg.zip)  · [eps](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-eps.zip)  |<i class="fal fa-download"></i> 下载   [jpg](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-shapeonly-jpg.zip)  · [png](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-shapeonly-png.zip)· [svg](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-shapeonly-svg.zip)  · [eps](https://guidelines.cc/assets/attachment/logos/logo__jjl__desktop-shapeonly-eps.zip) |
