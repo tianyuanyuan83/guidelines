@@ -12,6 +12,7 @@
   * [字体](content/guidelines/font.md)
   * [布局](content/guidelines/layout.md)
   * [图标](content/guidelines/icon.md)
+  * [文案](content/guidelines/writing.md)
   * [可用性](content/guidelines/usability.md)
 
 * 资源
