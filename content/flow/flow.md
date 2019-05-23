@@ -52,25 +52,25 @@ UED组实际执行参考 nordstorm 的流程，完善并补齐各节点工作，
 
 ![Design thinking](../../assets/imgs/dtpart.png)
 
-[了解更多](references.md#referDesignThinking)
+[了解更多](content/references.md#referDesignThinking)
 
 #### lean ux
 
 ![lean ux](../../assets/imgs/leanuxpart.png)
 
-[了解更多](references.md#referLeanUx)
+[了解更多](content/references.md#referLeanUx)
 
 #### agile
 
 ![agile](../../assets/imgs/agilepart.png)
 
-[了解更多](references.md#referAgile)
+[了解更多](content/references.md#referAgile)
 
 #### growth Hack
 
 ![ghpart](../../assets/imgs/ghpart.png)
 
-[了解更多](references.md#referGrowthHack)
+[了解更多](content/references.md#referGrowthHack)
 
 <!-- #### 旧流程
 
