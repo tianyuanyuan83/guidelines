@@ -25,6 +25,7 @@ UED组实际执行参考 nordstorm 的流程，完善并补齐各节点工作，
 
 产出文档模板(内网)部分见 <http://ued.jovi.cc/d/b54065113f4a417e8dc6/>
 
+<!-- 
 ## nordstorm流程解读
 
 ### 坐标轴
@@ -70,7 +71,7 @@ UED组实际执行参考 nordstorm 的流程，完善并补齐各节点工作，
 
 ![ghpart](../../assets/imgs/ghpart.png)
 
-[了解更多](content/references.md#referGrowthHack)
+[了解更多](content/references.md#referGrowthHack) -->
 
 <!-- #### 旧流程
 
