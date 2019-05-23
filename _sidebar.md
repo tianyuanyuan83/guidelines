@@ -1,5 +1,5 @@
 
-* [README](README.rd)
+* [README](README.md)
 * 流程
   * [执行流程](content/flow/flow.md)
   * [交互设计走查](content/flow/IDChecklist.md)
