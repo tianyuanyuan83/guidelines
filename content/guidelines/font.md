@@ -6,7 +6,7 @@
 
 ## 字体家族
 
-优秀的字体系统首先是要选择合适的字体家族。Ant Design 的字体家族中优先使用系统默认的界面字体，同时提供了一套利于屏显的备用字体库，来维护在不同平台以及浏览器的显示下，字体始终保持良好的易读性和可读性，体现了友好、稳定和专业的特性。
+优秀的字体系统要选择合适的字体家族。来维护在不同平台以及浏览器的显示下，字体始终保持良好的易读性和可读性，体现了友好、稳定和专业的特性。
 
 可以调用系统内置字体
 
@@ -30,15 +30,13 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hira
 
 ![行高](../../assets/imgs/iFjgfIBExksqCqGMwUlw.png)
 
-
 ## 字体设计规范
 
-字体规范除 `primary`，`variant`，`onSurface`，`onPrimary`部分根据产品调整外，其他规范适用于全部产品，根据产品终端不同，选用不同字体的样式库。
+字体规范除 `primary`，`variant`，`onSurface`，`onPrimary`部分根据产品调整外，其他规范适用于全部产品，根据产品终端不同，选用不同字体的样式库。 web端的， 则可参考上面提到的CSS。
 
 - 桌面客户端应用&web端 ： 微软雅黑版本
 - android设备：noto sans版本
 - iOS设备：pingfang版本
-
 
 ### 字体设计规则表
 
