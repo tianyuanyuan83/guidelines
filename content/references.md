@@ -1,4 +1,4 @@
-# 参考
+# 参考 {docsify-ignore-all}
 
 ## Agile :id=referAgile
 
@@ -6,7 +6,7 @@ Agile 思想复杂，实施及落实都需要较高的条件，且需要高度�
 推荐阅读scrum书籍：
 [Scrum 要素](https://search.jd.com/Search?keyword=scrum+%e8%a6%81%e7%b4%a0&enc=utf-8 ':target=_blank')
 
-![scrum 要素](https://guidelines.cc/assets/imgs/c5iDDVPrNLUVLA.jpg ':size=500')
+![scrum 要素](../assets/imgs/c5iDDVPrNLUVLA.jpg ':size=500')
 
 ---
 
@@ -40,9 +40,9 @@ Agile 思想复杂，实施及落实都需要较高的条件，且需要高度�
 
 [wiki-Design thinking](https://zh.wikipedia.org/wiki/%E8%A8%AD%E8%A8%88%E6%80%9D%E8%80%83 ':size=500')
 
-![Design thinking by nngroup](https://guidelines.cc/assets/imgs/designthinking_illustration_final-01-01.png ':size=500')
+![Design thinking by nngroup](../assets/imgs/designthinking_illustration_final-01-01.png ':size=500')
 
-![Design thinking by Interaction design](https://guidelines.cc/assets/imgs/a1a765fff58057f0516d219f133f0c21.jpg ':size=500')
+![Design thinking by Interaction design](../assets/imgs/a1a765fff58057f0516d219f133f0c21.jpg ':size=500')
 
 ---
 
@@ -56,11 +56,11 @@ Agile 思想复杂，实施及落实都需要较高的条件，且需要高度�
 
 产品开发也受到黑客成长的观念的深刻影响。而不是长时间的开发周期，随后用户测试。增长黑客利用线框和草图开始用户测试;验证每个阶段的想法。产品开发角色中的成长黑客将开始在咖啡店进行用户测试，而不是企业可用性实验室。
 
-![Growth hack](https://guidelines.cc/assets/imgs/wat-is-growth-hacking-venn-diagram.png ':size=500')
+![Growth hack](../assets/imgs/wat-is-growth-hacking-venn-diagram.png ':size=500')
 
 ### 海盗模型 (AARRR)
 
-![AARRR](https://guidelines.cc/assets/imgs/0_DPrPZsMZxod0ZAHo.jpg ':size=500')
+![AARRR](../assets/imgs/0_DPrPZsMZxod0ZAHo.jpg ':size=500')
 
 ---
 
@@ -68,8 +68,8 @@ Agile 思想复杂，实施及落实都需要较高的条件，且需要高度�
 
 “精益”来自丰田模式的精益制造，是追求生产过程中的合理性和高效性，能够灵活适应需求的高质量产品，减少浪费。推荐阅读《精益思想丛书:丰田模式(领导力篇)》和《丰田模式:精益制造的14项管理原则 》。《精益创业》是Eric借鉴精益制造的理念，并将其引入产品设计过程当中，与敏捷开发有诸多不同点。“精益用户体验”是从设计师的角度去反思和优化设计过程。
 
-![Lean ux circle](https://guidelines.cc/assets/imgs/lean-ux-product-stewardship-integrated-teams-8-728.jpg ':size=500')
+![Lean ux circle](../assets/imgs/lean-ux-product-stewardship-integrated-teams-8-728.jpg ':size=500')
 
-![len ux circle 2](https://guidelines.cc/assets/imgs/1_WveYEpiynF2jAdF8sUQMAQ.png ':size=500')
+![len ux circle 2](../assets/imgs/1_WveYEpiynF2jAdF8sUQMAQ.png ':size=500')
 
 ---

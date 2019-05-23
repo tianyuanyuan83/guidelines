@@ -573,8 +573,6 @@
 
 具体使用请参考 1995 年中国标准出版社出版的[《标点符号用法》](http://www.gddx.gov.cn/jjxjyb/resource/cms/2016/05/2016051420583039892.pdf)，右图为重点列出的在设计中需要注意的部分。
 
-?> _TODO_ 待完善
-
 ### references
 
 - [11 Golden Rules of Writing Content for Your Website | Jimdo Blog](https://www.jimdo.com/blog/11-golden-rules-of-writing-website-content/)
